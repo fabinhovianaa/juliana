@@ -1,5 +1,7 @@
 body{
 	background-color: #e6e6e6;
+	<video id="background-video" autoplay loop muted poster="https://assets.codepen.io/6093409/river.jpg">
+	<source src="https://assets.codepe	
 }
 .logoc img {
     width: 6%;
