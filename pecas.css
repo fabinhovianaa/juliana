@@ -1,0 +1,96 @@
+body{
+	background-color: #e6e6e6;
+}
+.logoc img {
+    width: 6%;
+    margin-left: 47.1%;
+    margin-top: 0;
+}
+.carros {
+	width: 1200px;
+	margin: 0 auto;
+	padding: 10px 0;
+}
+.parachoque{
+	
+	width: 104%;
+	vertical-align: top;
+	margin-left: 0px;
+	padding: 34.1px 20px;
+	box-sizing: border-box;
+	border: 1px solid #ffffff;
+	border-radius: 1.5%;
+	background-color: white;
+}
+
+.motor{
+	vertical-align: top;
+	margin-left: 9px;
+	padding: 23px 20px;
+	box-sizing: border-box;
+	border: 1px solid #ffffff;
+	border-radius: 1.5%;
+	background-color: white;
+}
+.pneu {
+	
+	
+	width: 100%;
+	vertical-align: top;
+	margin-left: 9px;
+	padding: 27.1px 20px;
+	box-sizing: border-box;
+	border: 1px solid #ffffff;
+	border-radius: 1.5%;
+	background-color: white;
+}
+.carros img{
+
+  width: 50%;
+}
+.motor img{
+	width: 90%; 
+}
+.fontegrossa{
+  font-weight: bolder;
+}
+
+.carros li {
+	display: inline-block;
+	text-align: center;
+	width: 24%;
+	vertical-align: top;
+	margin-left: 9px;
+	padding: 20px 20px;
+	box-sizing: border-box;
+	border: 1px solid #000000;
+	border-radius: 1.5%;
+	background-color: white;
+}
+
+.carros li:hover {
+	border-color: #C78C19;
+}
+
+.carros li:active {
+	border-color: #088C19;	
+}
+
+.carros li:hover h2 {
+	font-size: 34px;
+}
+
+.carros h2 {
+	font-size: 35.6px;
+	font-weight: bold;
+}
+
+.carros-descricao {
+	font-size: 18px;
+}
+
+.carros-preco {
+	font-size: 22px;
+	font-weight: bold;
+	margin-top: 10px;
+}
